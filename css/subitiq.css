@@ -9,3 +9,41 @@ body {
 h1{
         font-family: 'Inconsolata', monospace;
 }
+h1 {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 30px;
+}
+
+p{
+  text-align: left;
+  color: red;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+}
+
+.footeraboutus{
+  color: black;
+}
+
+.footerclass{
+  background-color: gray;
+}
+
+.socialmedia{
+  width: 25px;
+  height: 25px;
+}
+
+.aboutus{
+  text-align: center;
+}
+
+.partners{
+  width: 125px;
+  height: 100px;
+}
+
+.contactus{
+  color: black;
+}
